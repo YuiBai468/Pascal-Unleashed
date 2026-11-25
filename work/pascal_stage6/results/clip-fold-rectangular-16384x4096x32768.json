@@ -1,0 +1,41 @@
+[
+  {
+    "m": 16384,
+    "n": 4096,
+    "k": 32768,
+    "method": "clipped_ar2_cusparse_e2e",
+    "median_ms": 299.85622151692706,
+    "min_ms": 299.3018798828125,
+    "max_ms": 300.2054036458333,
+    "effective_tflops": 14.667184455453185,
+    "samples_ms": [
+      299.3896077473958,
+      299.8821614583333,
+      299.3018798828125,
+      299.89955647786456,
+      299.85622151692706,
+      299.6599527994792,
+      300.2054036458333
+    ],
+    "base": 15,
+    "clip": 3.18,
+    "seed": 2109,
+    "dataset": "normal",
+    "tail_nnz": [
+      789901,
+      198192
+    ],
+    "dense_order": [
+      "r",
+      "r"
+    ],
+    "cap": 1905,
+    "fold": true,
+    "separate": true,
+    "overlap": true,
+    "sparse_algo": 6,
+    "relative_frobenius": 0.0009950984809419402,
+    "certified_rows": 192,
+    "verified_elements": 786432
+  }
+]

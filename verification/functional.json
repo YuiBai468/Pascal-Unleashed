@@ -1,0 +1,115 @@
+{
+  "device": {
+    "name": "Tesla P40",
+    "major": 6,
+    "minor": 1,
+    "driver": 13000,
+    "compatible": 1,
+    "memory": 25662586880,
+    "ordinal": 0
+  },
+  "tests": {
+    "fast": {
+      "error": 0.006394328832983209,
+      "run": {
+        "mode": 1,
+        "reason": 0,
+        "milliseconds": 0.6808000206947327,
+        "tflops": 0.05602669629926924,
+        "accelerated": 1,
+        "native": 0,
+        "fallback": 0,
+        "logical_ops": 38142976,
+        "workspace_bytes": 1315840
+      }
+    },
+    "balanced": {
+      "error": 0.0010433085017762316,
+      "run": {
+        "mode": 2,
+        "reason": 0,
+        "milliseconds": 0.21932800114154816,
+        "tflops": 0.17390837376657434,
+        "accelerated": 1,
+        "native": 0,
+        "fallback": 0,
+        "logical_ops": 38142976,
+        "workspace_bytes": 1685248
+      }
+    },
+    "precise": {
+      "error": 0.0009358850198932963,
+      "run": {
+        "mode": 3,
+        "reason": 0,
+        "milliseconds": 0.3999679982662201,
+        "tflops": 0.09536506961892462,
+        "accelerated": 1,
+        "native": 0,
+        "fallback": 0,
+        "logical_ops": 38142976,
+        "workspace_bytes": 2106368
+      }
+    },
+    "native": {
+      "error": 1.4320378076808486e-07,
+      "run": {
+        "mode": 4,
+        "reason": 0,
+        "milliseconds": 14.195327758789062,
+        "tflops": 0.0026870091799313127,
+        "accelerated": 0,
+        "native": 1,
+        "fallback": 0,
+        "logical_ops": 38142976,
+        "workspace_bytes": 2106368
+      }
+    },
+    "auto": {
+      "error": 1.4320378076808486e-07,
+      "run": {
+        "mode": 4,
+        "reason": 7,
+        "milliseconds": 0.03174399957060814,
+        "tflops": 1.2015806614147226,
+        "accelerated": 0,
+        "native": 1,
+        "fallback": 1,
+        "logical_ops": 38142976,
+        "workspace_bytes": 2106368
+      }
+    },
+    "tolerance_requires_native": {
+      "mode": 4,
+      "reason": 2,
+      "milliseconds": 0.03161599859595299,
+      "tflops": 1.2064453977070488,
+      "accelerated": 0,
+      "native": 1,
+      "fallback": 1,
+      "logical_ops": 38142976,
+      "workspace_bytes": 2106368
+    },
+    "aligned_outliers": {
+      "mode": 4,
+      "reason": 3,
+      "milliseconds": 0.11932799965143204,
+      "tflops": 0.31964816398011453,
+      "accelerated": 0,
+      "native": 1,
+      "fallback": 1,
+      "logical_ops": 38142976,
+      "workspace_bytes": 2106368
+    },
+    "nonfinite_fallback": "passed on all three paths",
+    "zeros_and_cancellation": 1.239776611328125e-05,
+    "strides_broadcast_batched_scalars": "passed",
+    "repeated_calls": "11 calls with identical results",
+    "out_of_memory_recovery": "passed",
+    "disabled_fallback_and_int32_guard": "passed",
+    "pytorch_nondefault_stream": {
+      "error": 0.0010839487658813596,
+      "accelerated": 3
+    }
+  }
+}

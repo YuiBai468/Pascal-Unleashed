@@ -1,0 +1,108 @@
+{
+  "shape": [
+    16384,
+    16384,
+    16384
+  ],
+  "seed": 2109,
+  "selection": "clipped-stage10-left-trained-probe.json",
+  "selection_status": "screened at a common shape and seed, then matched with full-matrix checks",
+  "points": [
+    {
+      "result": "dense08-stage10-balanced-control.json",
+      "t_per_s": 19.799440134120434,
+      "relative_error": 0.0015200799561500208,
+      "verified_elements": 268435456,
+      "pareto": true,
+      "speed_loss": 0.0,
+      "precision_loss": 1.0,
+      "equal_weight_distance": 0.7071067811865475
+    },
+    {
+      "result": "clipped-stage10-balanced-3p48-probe.json",
+      "t_per_s": 18.90852432345483,
+      "relative_error": 0.0011146266610914761,
+      "verified_elements": 3145728,
+      "pareto": true,
+      "speed_loss": 1.0,
+      "precision_loss": 0.0,
+      "equal_weight_distance": 0.7071067811865475
+    },
+    {
+      "result": "clipped-stage10-balanced-3p58-probe.json",
+      "t_per_s": 18.964226536625507,
+      "relative_error": 0.0011605651472620245,
+      "verified_elements": 3145728,
+      "pareto": true,
+      "speed_loss": 0.9374775792461684,
+      "precision_loss": 0.11330154849010464,
+      "equal_weight_distance": 0.6677205450184648
+    },
+    {
+      "result": "clipped-stage10-balanced-3p68-probe.json",
+      "t_per_s": 18.9616581657789,
+      "relative_error": 0.001207449941909814,
+      "verified_elements": 3145728,
+      "pareto": false
+    },
+    {
+      "result": "clipped-stage10-balanced-3p78-probe.json",
+      "t_per_s": 19.000245233676527,
+      "relative_error": 0.0012565172333132975,
+      "verified_elements": 3145728,
+      "pareto": false
+    },
+    {
+      "result": "clipped-stage10-left-3p18-probe.json",
+      "t_per_s": 19.271609239678856,
+      "relative_error": 0.001201486577599656,
+      "verified_elements": 3145728,
+      "pareto": true,
+      "speed_loss": 0.5924587801929743,
+      "precision_loss": 0.2142291542991106,
+      "equal_weight_distance": 0.4454781345809573
+    },
+    {
+      "result": "clipped-stage10-left-3p35-probe.json",
+      "t_per_s": 19.382787792523168,
+      "relative_error": 0.0012392654852717774,
+      "verified_elements": 3145728,
+      "pareto": false
+    },
+    {
+      "result": "clipped-stage10-left-3p55-probe.json",
+      "t_per_s": 19.482948481371956,
+      "relative_error": 0.0012882662889747397,
+      "verified_elements": 3145728,
+      "pareto": true,
+      "speed_loss": 0.35524305322635075,
+      "precision_loss": 0.4282604926374841,
+      "equal_weight_distance": 0.39344928289404746
+    },
+    {
+      "result": "clipped-stage10-left-trained-probe.json",
+      "t_per_s": 19.44745558132937,
+      "relative_error": 0.0012362998691161835,
+      "verified_elements": 3145728,
+      "pareto": true,
+      "speed_loss": 0.39508172217540766,
+      "precision_loss": 0.30009179727381075,
+      "equal_weight_distance": 0.3508166572357361
+    }
+  ],
+  "matched_full_matrix": [
+    {
+      "result": "clipped-stage10-balanced-verified.json",
+      "t_per_s": 19.356989631852453,
+      "relative_error": 0.0012370330362578201,
+      "equal_weight_distance": 0.41096192746565424
+    },
+    {
+      "result": "clipped-stage10-balanced-3p55-matched.json",
+      "t_per_s": 19.38975938546491,
+      "relative_error": 0.0012613095503372503,
+      "equal_weight_distance": 0.41372460985866694
+    }
+  ],
+  "verified_selection": "clipped-stage10-balanced-verified.json"
+}

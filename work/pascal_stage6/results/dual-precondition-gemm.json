@@ -1,0 +1,122 @@
+[
+  {
+    "rows": 2048,
+    "depth": 4096,
+    "width": 32,
+    "seed": 2109,
+    "rounds": 3,
+    "clip": 3.2,
+    "relative_frobenius": 0.0010070527239022338,
+    "clipping_counts_initial": [
+      11333,
+      11440
+    ],
+    "clipping_counts_final": [
+      80,
+      6
+    ],
+    "cpu_transform_seconds": 3.317874699998356,
+    "invariant_relative_frobenius": 4.580741867822463e-07,
+    "verified_elements": 4194304
+  },
+  {
+    "rows": 2048,
+    "depth": 4096,
+    "width": 64,
+    "seed": 2109,
+    "rounds": 3,
+    "clip": 3.2,
+    "relative_frobenius": 0.0009957127320700415,
+    "clipping_counts_initial": [
+      11333,
+      11440
+    ],
+    "clipping_counts_final": [
+      0,
+      0
+    ],
+    "cpu_transform_seconds": 4.228130299998156,
+    "invariant_relative_frobenius": 4.804268926637344e-07,
+    "verified_elements": 4194304
+  },
+  {
+    "rows": 2048,
+    "depth": 4096,
+    "width": 32,
+    "seed": 43,
+    "rounds": 3,
+    "clip": 3.2,
+    "relative_frobenius": 0.0010025532753830185,
+    "clipping_counts_initial": [
+      11249,
+      11465
+    ],
+    "clipping_counts_final": [
+      115,
+      0
+    ],
+    "cpu_transform_seconds": 3.2299536999998963,
+    "invariant_relative_frobenius": 4.59059291882143e-07,
+    "verified_elements": 4194304
+  },
+  {
+    "rows": 2048,
+    "depth": 4096,
+    "width": 64,
+    "seed": 43,
+    "rounds": 3,
+    "clip": 3.2,
+    "relative_frobenius": 0.0009952059705914842,
+    "clipping_counts_initial": [
+      11249,
+      11465
+    ],
+    "clipping_counts_final": [
+      0,
+      0
+    ],
+    "cpu_transform_seconds": 3.717998699998134,
+    "invariant_relative_frobenius": 4.823345761850818e-07,
+    "verified_elements": 4194304
+  },
+  {
+    "rows": 2048,
+    "depth": 4096,
+    "width": 32,
+    "seed": 101,
+    "rounds": 3,
+    "clip": 3.2,
+    "relative_frobenius": 0.0010183558659644406,
+    "clipping_counts_initial": [
+      11312,
+      11541
+    ],
+    "clipping_counts_final": [
+      125,
+      29
+    ],
+    "cpu_transform_seconds": 3.902413900003012,
+    "invariant_relative_frobenius": 4.58372753855627e-07,
+    "verified_elements": 4194304
+  },
+  {
+    "rows": 2048,
+    "depth": 4096,
+    "width": 64,
+    "seed": 101,
+    "rounds": 3,
+    "clip": 3.2,
+    "relative_frobenius": 0.0009956333103043854,
+    "clipping_counts_initial": [
+      11312,
+      11541
+    ],
+    "clipping_counts_final": [
+      0,
+      0
+    ],
+    "cpu_transform_seconds": 3.668623599995044,
+    "invariant_relative_frobenius": 4.796381801277151e-07,
+    "verified_elements": 4194304
+  }
+]

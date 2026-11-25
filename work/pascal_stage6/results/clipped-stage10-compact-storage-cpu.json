@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "normal",
+    "seed": 2109,
+    "shape": [
+      128,
+      128,
+      16384
+    ],
+    "partial_storage_relative_to_full": 4.3263406399851875e-06,
+    "max_abs_normalized_partial": 1.78515625,
+    "peak_tail_count": 68
+  },
+  {
+    "dataset": "normal",
+    "seed": 43,
+    "shape": [
+      128,
+      128,
+      16384
+    ],
+    "partial_storage_relative_to_full": 4.34438173196126e-06,
+    "max_abs_normalized_partial": 1.67578125,
+    "peak_tail_count": 62
+  },
+  {
+    "dataset": "normal",
+    "seed": 101,
+    "shape": [
+      128,
+      128,
+      16384
+    ],
+    "partial_storage_relative_to_full": 4.380082276713613e-06,
+    "max_abs_normalized_partial": 1.7646484375,
+    "peak_tail_count": 62
+  },
+  {
+    "dataset": "co_spike",
+    "seed": 2109,
+    "shape": [
+      128,
+      128,
+      16384
+    ],
+    "partial_storage_relative_to_full": 2.000296998449146e-05,
+    "max_abs_normalized_partial": 1.4716796875,
+    "peak_tail_count": 63
+  },
+  {
+    "dataset": "finite_range",
+    "seed": 2109,
+    "shape": [
+      128,
+      128,
+      16384
+    ],
+    "partial_storage_relative_to_full": 6.482532073117163e-05,
+    "max_abs_normalized_partial": 3.525390625,
+    "peak_tail_count": 405
+  }
+]

@@ -1,0 +1,54 @@
+# Pascal Unleashed v1.0
+
+Pascal Unleashed 是 Windows x64 上面向通用 FP16 矩阵乘法的 CUDA 计算库，首个实测设备是 NVIDIA Tesla P40。它把支持的 GEMM 编码成 INT8，让 Pascal 的 DP4A 完成乘加，再重构成 FP32 或写回 FP16。Python 用户可以直接传矩阵，CUDA 程序可以传已有显存地址，PyTorch 推理应用可以按进程接入。
+
+矩阵乘用于 AI、科学计算、图像处理和信号处理。v1.0 的核心是 GEMM。应用的卷积、注意力、逐元素算术、训练和其他运算沿用原有路径。
+
+## 第一次运行
+
+1. 在 GitHub Releases 下载 Windows x64 安装程序，或解压便携包。确保系统能运行 `nvidia-smi`。
+2. 打开 `PascalUnleashedPanel.exe`，选择 Tesla P40。已有 CUDA 12 的 PyTorch 环境时，可以把它的 `torch\lib` 目录填入 **CUDA 12 路径**。CUDA Toolkit 用户可以填它的 `bin` 目录。
+3. 到 **矩阵 Benchmark** 选择 `2048³` 和 **原生 FP32**，点击开始。跑通以后用相同尺寸选 **均衡**。表格会给出实际档位、耗时、吞吐、相对误差、对 FP32 的倍率和分配的显存。
+4. 要运行自己的 Python 应用，在 **应用程序** 添加它使用的 `python.exe`，填入脚本参数和工作目录，选计算档并点击 **启动加速**。看到「已验证 DP4A 执行」才代表应用确实走过加速内核。
+
+只想用 C SDK 时，先运行随包附带的 `PascalSdkExample.exe`。正常输出是 `[19 22; 43 50]`，自动模式在这个玩具矩阵上选择原生。
+
+## 选择哪一档
+
+| 档位 | 算法和适用条件 |
+| --- | --- |
+| 自动 | 先看形状、设备和请求精度。小矩阵走原生，已知大尺寸选极速或均衡。 |
+| 极速 | 成对投影与双字节混合编码，一轮 INT8 GEMM。适合吞吐优先、能接受近似的任务。 |
+| 均衡 | 两轮 INT8 GEMM，左侧稀疏补偿，右侧按峰值编码。适合需要更稳定近似值的工作负载。 |
+| 高精度 | 两轮 INT8 GEMM、两侧尾项补偿。高斯参考矩阵误差更低。同列异常值保护开启时会回退。 |
+| 原生 FP32 | cuBLAS FP32 累加路径，作为应用的保守选择。 |
+
+重要结果应当先用本应用的数据验证。全矩阵相对误差随输入分布、内积长度和结果是否发生抵消而变。高精度档的名称来自矩阵基准，在四模型的同种子成图测试中，均衡档四组都更接近 FP32。
+
+## 这条路线怎么做出来的
+
+最早尝试基数拆分，把高位和交叉项塞进两轮 INT8 GEMM。它快，但剩下的余数乘积会在严重抵消时被放大。后来把两个坐标投影到垂直于 `(3,4,5)` 的三维平面。在精确算术下投影保点积，量化后可以用一轮 INT8 GEMM 近似恢复。混入一部分双字节直线编码，给吞吐与误差之间增加了一个可调参数。
+
+双轮路线则用左右分别训练的码表、稀疏尾项和分包系数降低误差，再用 FP16 暂存一个方向的归一化部分和，减少显存读写。踩得最深的坑是同列异常值。高精度档对正态输入表现很好，但在两个输入共享大异常列时会丢掉显著贡献。发布运行时默认检查这种情况并允许回退。大 K、转置和编码开销也都在实跑时计入。
+
+P40 上，发布版极速在 `16384×16384×8192` 实测 **23.62 T/s**，均衡在 `16384³` 实测 **19.46 T/s**，高精度开启保护在 `16384³` 实测 **17.93 T/s / 0.09344%**。这些是指定尺寸与输入分布下的实测点。完整公式、失败实验和原始样本见下方文档。
+
+## 文档
+
+- [安装、配置和卸载](pascal-unleashed/INSTALL.md)
+- [C/C++、CUDA、Python 和 PyTorch 接口](pascal-unleashed/API.md)
+- [实测速度、误差和真实应用](pascal-unleashed/BENCHMARKS.md)
+- [实验经过、成功方案与失败结果](pascal-unleashed/EXPERIMENTS.md)
+- [数学推导和实现中的贡献](pascal-unleashed/RESEARCH.md)
+- [设备、应用和算子兼容性](pascal-unleashed/COMPATIBILITY.md)
+- [版本历史](pascal-unleashed/CHANGELOG.md)、[路线图](pascal-unleashed/ROADMAP.md)、[构建和交接](pascal-unleashed/HANDOFF.md)
+
+源代码使用 [MIT](pascal-unleashed/LICENSE)。NVIDIA 的 CUDA 库和驱动由用户现有环境提供，模型文件也由用户自己的应用提供。
+
+## 研究档案
+
+[历代基准](research/Pascal-Unleashed-P40-Tiers.md) · [真实生图对比](research/four-models.png) · [逐组数据](research/four-models.json)
+
+## 发布验收
+
+[安装与 GPU 运行实测](verification/ACCEPTANCE.md) · [控制面板](verification/panel.png) · [发布版 ComfyUI 样本](verification/final-app.png)

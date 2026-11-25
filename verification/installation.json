@@ -1,0 +1,12 @@
+{
+  "installed": true,
+  "windows_registration": true,
+  "portable": true,
+  "panel_rendered": true,
+  "panel_gpu_benchmark": true,
+  "panel_application_acceleration_and_restore": true,
+  "c_sdk_example": true,
+  "cpp_sdk_example": true,
+  "python_wheel_install_run_uninstall": true,
+  "uninstall_preserves_configuration": true
+}

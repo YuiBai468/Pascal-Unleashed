@@ -1,0 +1,9532 @@
+{
+  "dual": 2048,
+  "candidates": [
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038578537847610396,
+      "validation": [
+        0.0037752421110871467,
+        0.0038586489550160785,
+        0.0037535919294464618
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038636346309545936,
+      "validation": [
+        0.003785371067334365,
+        0.003880622472781694,
+        0.0037649073601459864
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0038637579276300377,
+      "validation": [
+        0.003809225259176704,
+        0.0038268516544230136,
+        0.00378120277591181
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038638287003934166,
+      "validation": [
+        0.003784302988897528,
+        0.0038774218670409016,
+        0.0037622588139397135
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038638821237585775,
+      "validation": [
+        0.003813084259890495,
+        0.003832316313165685,
+        0.003778102686642637
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038678654041845294,
+      "validation": [
+        0.003801577374683584,
+        0.003861739914765341,
+        0.0037926781995080497
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003868649930323863,
+      "validation": [
+        0.0038320481331118855,
+        0.0038687717517040666,
+        0.0037821921077308652
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0038704308988888434,
+      "validation": [
+        0.0038235246638572344,
+        0.003843683648891095,
+        0.003772149829868129
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038706121089522533,
+      "validation": [
+        0.0037872540045556244,
+        0.0038942641796246304,
+        0.0037691430335582217
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003871471422304763,
+      "validation": [
+        0.0038039155431333453,
+        0.003878384301068622,
+        0.003785120311455146
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00387401643902355,
+      "validation": [
+        0.0038021193249132106,
+        0.0038414891970483594,
+        0.003811306768835099
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003877448565830005,
+      "validation": [
+        0.0038391512564090926,
+        0.003849007311655323,
+        0.0038123893481707733
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "validation": [
+        0.0037954623908666146,
+        0.003820555667285616,
+        0.0037922255715998644
+      ]
+    }
+  ],
+  "records": [
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038706121089522533,
+      "validation": [
+        0.0037872540045556244,
+        0.0038942641796246304,
+        0.0037691430335582217
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0039041251171934815
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004165950611587837
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010544099574941013
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00768413170552171
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00598882046577679
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038638287003934166,
+      "validation": [
+        0.003784302988897528,
+        0.0038774218670409016,
+        0.0037622588139397135
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0038847912062861156
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004115509916795746
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01054272675720663
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007678163436573781
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005976453637076968
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003868649930323863,
+      "validation": [
+        0.0038320481331118855,
+        0.0038687717517040666,
+        0.0037821921077308652
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0038704308988888434,
+      "validation": [
+        0.0038235246638572344,
+        0.003843683648891095,
+        0.003772149829868129
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004011229112936572
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010540041618003234
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007670209340528964
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005963553473398495
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0039017167007323714
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003933466310524992
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004190803236654057
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01051307854292323
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007675120450166882
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005995667622111876
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038970886823474424
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003916305050607068
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004141318511656184
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010511791356387929
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007669300485274247
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0059838209888761025
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0039060903700526757
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0039053272400809145
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004039711049884858
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010508761039578653
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00766120880615877
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005971459518383918
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004006665901014982
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0040320496686464076
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004279106464177578
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010520346377994393
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007705499042136709
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006048792906051423
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0040058470455769934
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0040192735828908695
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.00423371213118555
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010519003280225925
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007700196696274092
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006038352726555914
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004025246390086024
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004016385307552412
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041408438793227205
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010516096826335489
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007692339358069062
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0060280696841724865
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00443301869399715
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004431712593567157
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004637517241147405
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01065878499251007
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007894516818715695
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006295644501892209
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004447849712593084
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0044279188044967005
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004604639233135976
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010657837156803053
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007889196309092236
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006287210859312696
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004493735403766213
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004454642379903649
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0045476108235394715
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010655278843723371
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007883888600972132
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006285682134839827
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004577839719151007
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004574123800112447
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004742183254420475
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010749138180907674
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007981058983791142
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006396928789921135
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004595180800406083
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0045747167399406135
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004714580097825178
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01074823156990855
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007977454445858106
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00639114318547373
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004647669460611208
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0045996491120117375
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004679703095064247
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010745775159423076
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007971777315288581
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006387318625256633
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038636346309545936,
+      "validation": [
+        0.003785371067334365,
+        0.003880622472781694,
+        0.0037649073601459864
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003896908724609789
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004158358952342715
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010536245632633102
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007678389326415785
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005985740036738084
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038578537847610396,
+      "validation": [
+        0.0037752421110871467,
+        0.0038586489550160785,
+        0.0037535919294464618
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0038785760453014114
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004107877602050113
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010534883740941314
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007672527897527185
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005973909750021855
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038638821237585775,
+      "validation": [
+        0.003813084259890495,
+        0.003832316313165685,
+        0.003778102686642637
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0038637579276300377,
+      "validation": [
+        0.003809225259176704,
+        0.0038268516544230136,
+        0.00378120277591181
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004005195730535873
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010532297733165968
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007664067643857436
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005960941572004942
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003894714530115993
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003926546620912784
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004182925943708054
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.0105052246053483
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0076695208630893205
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005992787740300042
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038910750113752106
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0039103538690124515
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004133395611004511
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010503960227776749
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007663806302656724
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005981467000452808
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003901208087475673
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003898765218047343
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0040338103250762295
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01050099408712237
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007655090632342663
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0059689008527428165
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004000023361225126
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004025346068398709
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004271105302060938
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01051249457653969
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007699988622694458
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006045999758585162
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004000136100887202
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004013555763606401
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004225690459386395
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010511176817663634
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007694805109774584
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006036101830054167
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004020681119504212
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004009960347651324
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004134956898520511
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010508335295929422
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007686222168319696
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006025489311708587
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004427065277970026
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004425335704262151
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004630525762427918
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010651038351462248
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007888916808783347
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0062927557678514896
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00444279852963072
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00442244336379444
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004597641282324968
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010650101569042657
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00788370018236837
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006284830945626969
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004489755735760652
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004448894399194615
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004542474880216565
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01064761876986172
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007877900913833695
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006283229139632005
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004572001960567945
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00456798531280774
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004735091583008349
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010741473623673831
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00797561756982547
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006394184820814554
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004590222172718004
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004569451916758302
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004707507362988008
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010740577934970035
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007972117608560916
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00638890336955624
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004643590701925536
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0045940935612464855
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0046746681883740124
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010738179641246777
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007965937294055085
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006384994894482179
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003871471422304763,
+      "validation": [
+        0.0038039155431333453,
+        0.003878384301068622,
+        0.003785120311455146
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003902641308928698
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004159027650518163
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010535040928086725
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007680288181948232
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005992116761581908
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038678654041845294,
+      "validation": [
+        0.003801577374683584,
+        0.003861739914765341,
+        0.0037926781995080497
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003886601222742198
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004110833930708883
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010533738032276335
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0076747150226412885
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005981266059092058
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003877448565830005,
+      "validation": [
+        0.0038391512564090926,
+        0.003849007311655323,
+        0.0038123893481707733
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00387401643902355,
+      "validation": [
+        0.0038021193249132106,
+        0.0038414891970483594,
+        0.003811306768835099
+      ]
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004012647858706741
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010531181144168966
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0076665048057272854
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0059691978013752586
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0039021028785997873
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0039323363881445215
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004183520046269729
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010504109584953732
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007671655690406322
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00599920045827162
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003900881299743058
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003918401758241029
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004136284064167759
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010502890258324498
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007666213972783771
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005988836717144871
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003914616802364349
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0039088226970397065
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004041510330823673
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010499874169199645
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00765758325715503
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        4,
+        5
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005977007881283911
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0040076792416934995
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0040301933168828
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004271448597840362
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01051127933298673
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007701744995560169
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006051815695515757
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00401010185389499
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004020670178067064
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004228279518694575
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010510022786458184
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007696864776691018
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006042912828537643
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004033830478238342
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004019458500576411
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.00414228441509286
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010507216160473861
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007688682221497949
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        5,
+        6
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006033377476349236
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004433746455530241
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0044303325836156
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0046309121891105415
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010649926166919933
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007890852513451906
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006298837730873054
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0044513391466469016
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004429427006300334
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004600064231304777
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010649047724000086
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007885913897801277
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006291834114448779
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004501334918952478
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004457796014242498
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004548993506327991
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010646514275553224
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007880286077701176
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        7,
+        9
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00629102520322677
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004578703680745125
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004573332473853871
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004736488782235246
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010740452935635175
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007977685789178447
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006400502111247184
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00459872033055757
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0045767070597116715
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004710889551949648
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010739614812693503
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007974459136840459
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006396121527432677
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004654884254555356
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00460281957828511
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0046814023083542305
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010737084462689755
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007968279068613703
+    },
+    {
+      "plane": [
+        3,
+        4,
+        5
+      ],
+      "line": [
+        8,
+        11
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006392769844581644
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004180365102098108
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004225689143458745
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004484976187372862
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01164996785331012
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.008486010192511167
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006603822686681748
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004169921893466443
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0041978776958981594
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004409668682568333
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011648102141187652
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.008480361263269346
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006590147108488132
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004166782727874597
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004165850149548096
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004279390476276205
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011643532846966865
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00846637450803491
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0065662743914138575
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004174370944158788
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004218062496948875
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004476592013951205
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011643853849738539
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.008480036093215406
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00659869033834562
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00416497759553297
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004190889248552648
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0044019503367862525
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011642119967771489
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.008474578242402882
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006585346904212755
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004163554173974286
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004161625317687762
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.00427329485734421
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011637770985637317
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.008461048416228502
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0065623157073803695
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004177668073298534
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004220615653416847
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004477474783673638
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01164172306059027
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00848022139908842
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006601011230122459
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00416912150760299
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0041939741135850195
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004404342442366131
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011639950774495951
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0084746156041483
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006587789056110981
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004170741025359784
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0041668362428220855
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004276981227914798
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.011635722024770666
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.008461273964856096
+    },
+    {
+      "plane": [
+        2,
+        3,
+        4
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006565346496584936
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00454173425251874
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0046533315940372215
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004988542840370799
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013210755323132213
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009588895870720917
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.007396267744373076
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004482443240117774
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004593777393307277
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004871678880939872
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013208552200631064
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009576140822825862
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00736777473801086
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004356605803810284
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004419392628615115
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004605815824966049
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013204059513521823
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009550415259771166
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0072996838301234036
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004399521121049033
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004509447694207634
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0048424433938072595
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013130776707824152
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009508273565174401
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.007308407826233484
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004348715572133514
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004452895366959075
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004727201513032673
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013128269102603994
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009496169926348877
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.007282375872662151
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004234974668554605
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0042932196662556635
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.00446791225284959
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013124594228552165
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009473140988228679
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0072211648865196845
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004329175602909575
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004431249574880365
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0047511242279857325
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013064725469708906
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009438869104886874
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.007254532767505851
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004291457656636101
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004380750438277719
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004640763086286315
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013061763156152687
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00942716826513889
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.007230321318069601
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004209946747552233
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004251148304463707
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004409431991025273
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.013058727531853017
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.009406761796821386
+    },
+    {
+      "plane": [
+        3,
+        5,
+        7
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.007177992616980554
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003951879031051293
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0039897572493791935
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004234322299795767
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010181996148750176
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0074648838654338585
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005892240641959315
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003950701372608807
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003973854044793435
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004187808871012119
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010180275520117733
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007458288396238499
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005879277415428197
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003961996007336244
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00396009035717925
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004111185366169207
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010179209250603194
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00745292772454005
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005864534390932238
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003894393456602418
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003931575599748702
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041815938456983845
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010158081574556005
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007439620212666358
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005856352649213279
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003894192298389548
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003917901956432415
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041356759080666645
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010156577418920645
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007433998009213881
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005845741596718078
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003907479341790325
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.00390711165194046
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004060473833405583
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010155202884975133
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007428948086757236
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0058323103838245315
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038975347023939536
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003934655263086892
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041786114007785645
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010154481900567204
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007437958646680113
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005857623500667626
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0038996513360593176
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003924088055702931
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004135937775903787
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.0101530024600929
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007432679044378957
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005848583224705223
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003917993504337139
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003915438432162568
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004066925975286787
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010151592560138796
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007427966178016302
+    },
+    {
+      "plane": [
+        4,
+        5,
+        6
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005836929240318612
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004358872802902282
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004405694714212097
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004664332665065246
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010647872090659335
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007853467847532597
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006228327228989471
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004345711962536992
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004384845832303856
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004611184477034078
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010645744666520332
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007847711297293584
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006215558908177491
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004339768626337151
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004345890371515974
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004487149993791494
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010642253367715689
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007832730320605299
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006181954502098275
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0040495823312671686
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004108876587784266
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004368553680783443
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010519327824264658
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0077012803757832956
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006027689097021008
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004038995429518541
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.0040911316914570665
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.00431531035159925
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010517286289441484
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007696946140946447
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0060167307287147705
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004035375308588732
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004048677405081804
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041956053782137015
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010514253830622646
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007682801082309458
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005987127210708797
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004027222673809315
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004079226516862404
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004333073532762512
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010492564493043838
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007683400234229182
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0060100058902117694
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004020542384166637
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004067774787100661
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004287236589660967
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01049057536517163
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007679507403980012
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006002247063737484
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.004030780862022417
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004035698221634291
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004177215074613934
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010487687928126883
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007666953877486575
+    },
+    {
+      "plane": [
+        5,
+        7,
+        8
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.0059776282019068285
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.0039992627181175515
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004088842477865249
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004361387230376696
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010423074581013124
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007657450721630832
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006037574211537041
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003986307900605224
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004063896945924929
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004290036897569049
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010421243281208309
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007647099895026417
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006019578258891283
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003979852545103368
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004026923813838793
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041755603620472976
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010417034191157012
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.00763337754924843
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0015,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005993665848106973
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003944354519358414
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004036886167039899
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004308482179315146
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01039975695448832
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007631805770836365
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.006002115116830059
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003933643533998271
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004011914212365944
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004241027928296023
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010397324062140282
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0076209645155978605
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.00598347398028673
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00392810779061284
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003976105205061235
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.0041302662966700675
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010392894841284413
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.0076085852051008375
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.0025,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005959065930408324
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003959324170360493
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004043610214324656
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004313397089616337
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.01039606982040107
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007627116542083687
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.77,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005998414799576539
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.003949861619145625
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.004023082420124436
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004248735074039905
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010394368256120877
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007617272388194288
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.81,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005982243219387574
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 126,
+      "rms_cap": 0.0,
+      "estimate": 0.00394704217719573
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 0.0,
+      "estimate": 0.003990117250282511
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 130,
+      "rms_cap": 0.0,
+      "estimate": 0.004144194364275345
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.65,
+      "estimate": 0.010390239421975747
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.8,
+      "estimate": 0.007606254593887274
+    },
+    {
+      "plane": [
+        7,
+        9,
+        11
+      ],
+      "line": [
+        3,
+        4
+      ],
+      "penalty": 0.004,
+      "blend": 0.85,
+      "line_blend": 0.89,
+      "margin": 128,
+      "rms_cap": 2.95,
+      "estimate": 0.005959538762306177
+    }
+  ]
+}

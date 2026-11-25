@@ -1,0 +1,47 @@
+[
+  {
+    "m": 16384,
+    "n": 16384,
+    "k": 16384,
+    "method": "tail_directional128_bytes",
+    "median_ms": 453.6463216145833,
+    "min_ms": 451.0552571614583,
+    "max_ms": 455.7728271484375,
+    "effective_tflops": 19.38975938546491,
+    "samples_ms": [
+      451.9557291666667,
+      451.0552571614583,
+      453.1247965494792,
+      453.6463216145833,
+      454.5013834635417,
+      453.607421875,
+      454.4160563151042,
+      455.7728271484375,
+      455.5751953125
+    ],
+    "tile_panel": 1,
+    "packed_tail": true,
+    "fused_right": true,
+    "base": 17,
+    "clip": 3.55,
+    "cap": 2159,
+    "fold": true,
+    "seed": 2109,
+    "dataset": "normal",
+    "model": "asymmetric-stage10-3p45.npz",
+    "full_relative_frobenius": 0.0012613095503372503,
+    "max_abs_error": 0.9901007775843027,
+    "rmse": 0.16142501187639247,
+    "certified_rows": 16384,
+    "verified_elements": 268435456,
+    "reference": "FP64 cuBLAS with CPU FP64 cross-check",
+    "tail_packet_bits": 8,
+    "left_only": true,
+    "right_scale": "peak",
+    "phase_ms": {
+      "encode": 13.85267162322998,
+      "two_int8_products": 426.9854736328125,
+      "finish": 15.024127960205078
+    }
+  }
+]

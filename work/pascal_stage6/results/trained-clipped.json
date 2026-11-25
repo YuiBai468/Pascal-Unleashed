@@ -1,0 +1,452 @@
+[
+  {
+    "base": 12,
+    "clip": 3.0,
+    "estimated": 0.0009758056587570904,
+    "errors": [
+      0.0009928720564496665,
+      0.0009736793273828849,
+      0.0009754626258962785
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9879716964466618,
+      0.08978020221987651
+    ]
+  },
+  {
+    "base": 13,
+    "clip": 3.0,
+    "estimated": 0.0009560308418022821,
+    "errors": [
+      0.0009621192985208302,
+      0.0009536176326907077,
+      0.0009615022644213518
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9955809726938679,
+      0.08263890955519858
+    ]
+  },
+  {
+    "base": 14,
+    "clip": 3.0,
+    "estimated": 0.0009446451891262512,
+    "errors": [
+      0.0009639484831022599,
+      0.0009403468335946733,
+      0.000950031270432252
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0021985967502522,
+      0.0764239744276852
+    ]
+  },
+  {
+    "base": 15,
+    "clip": 3.0,
+    "estimated": 0.0009524345959134286,
+    "errors": [
+      0.0009635296686792058,
+      0.0009492266961928874,
+      0.0009698137611545517
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0234777015736296,
+      0.07215802186106339
+    ]
+  },
+  {
+    "base": 16,
+    "clip": 3.0,
+    "estimated": 0.0009668328455443853,
+    "errors": [
+      0.0009711682805480004,
+      0.0009749251016341884,
+      0.0009778652841162965
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0445931061990723,
+      0.06857571950677363
+    ]
+  },
+  {
+    "base": 12,
+    "clip": 3.04,
+    "estimated": 0.000992927523378982,
+    "errors": [
+      0.0010090568908308719,
+      0.0009994154713214144,
+      0.000997025702091805
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9880130624894555,
+      0.08974121171755989
+    ]
+  },
+  {
+    "base": 13,
+    "clip": 3.04,
+    "estimated": 0.0009733778925885739,
+    "errors": [
+      0.0009788782064832516,
+      0.0009663427395741841,
+      0.0009784510142560703
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9956281868581964,
+      0.08259227130245557
+    ]
+  },
+  {
+    "base": 14,
+    "clip": 3.04,
+    "estimated": 0.0009624923830732875,
+    "errors": [
+      0.000970181604676894,
+      0.0009655125761277502,
+      0.0009626189879959138
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0022222537006245,
+      0.07640136458736707
+    ]
+  },
+  {
+    "base": 15,
+    "clip": 3.04,
+    "estimated": 0.0009709660438953217,
+    "errors": [
+      0.0009756317710890915,
+      0.0009758758560496171,
+      0.0009708407165687416
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0235163198812407,
+      0.07212529996069156
+    ]
+  },
+  {
+    "base": 16,
+    "clip": 3.04,
+    "estimated": 0.000986294759538311,
+    "errors": [
+      0.0009945834785590748,
+      0.0009894242378404227,
+      0.000994879952214073
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0445881719131473,
+      0.06858303327386528
+    ]
+  },
+  {
+    "base": 12,
+    "clip": 3.08,
+    "estimated": 0.0010102348995862196,
+    "errors": [
+      0.0010197361750377192,
+      0.0010089168925911665,
+      0.001021362106368477
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9880234142623925,
+      0.08972746429551494
+    ]
+  },
+  {
+    "base": 13,
+    "clip": 3.08,
+    "estimated": 0.000990916795820717,
+    "errors": [
+      0.0009930090976472167,
+      0.0009870082681412932,
+      0.0010052193749514088
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9956592052419801,
+      0.08256407298587495
+    ]
+  },
+  {
+    "base": 14,
+    "clip": 3.08,
+    "estimated": 0.0009805035683098174,
+    "errors": [
+      0.0009794261717038049,
+      0.0009859334014664985,
+      0.000986750357298313
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0022584695930734,
+      0.0763678924393482
+    ]
+  },
+  {
+    "base": 15,
+    "clip": 3.08,
+    "estimated": 0.0009897243385966962,
+    "errors": [
+      0.0010014109597209898,
+      0.0009900182066200263,
+      0.000999300780055825
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.023548063668126,
+      0.07209726007199613
+    ]
+  },
+  {
+    "base": 16,
+    "clip": 3.08,
+    "estimated": 0.0010061546240111862,
+    "errors": [
+      0.001005058917914704,
+      0.0010124482407785072,
+      0.001024952930216502
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0445644420096896,
+      0.06860647872629584
+    ]
+  },
+  {
+    "base": 12,
+    "clip": 3.12,
+    "estimated": 0.0010276539596151312,
+    "errors": [
+      0.001037045197500202,
+      0.001026671389168112,
+      0.0010327171777202134
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9880578759355354,
+      0.08969582435209318
+    ]
+  },
+  {
+    "base": 13,
+    "clip": 3.12,
+    "estimated": 0.0010086239372321983,
+    "errors": [
+      0.0010165261497002767,
+      0.001010850051292859,
+      0.001024440976201404
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9956784032624139,
+      0.08254369490032443
+    ]
+  },
+  {
+    "base": 14,
+    "clip": 3.12,
+    "estimated": 0.0009986244101919295,
+    "errors": [
+      0.0010113338126737392,
+      0.0009979132972016153,
+      0.0010053307750613617
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0023126291764288,
+      0.0763186865166305
+    ]
+  },
+  {
+    "base": 15,
+    "clip": 3.12,
+    "estimated": 0.0010085619797198934,
+    "errors": [
+      0.0010237861535606293,
+      0.0010161305389097776,
+      0.0010138804610198917
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0235883649492628,
+      0.07206476232948096
+    ]
+  },
+  {
+    "base": 16,
+    "clip": 3.12,
+    "estimated": 0.001025748063490787,
+    "errors": [
+      0.001037400871505112,
+      0.0010283213662081602,
+      0.0010359999154705302
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0445998514653467,
+      0.06857548242374586
+    ]
+  },
+  {
+    "base": 12,
+    "clip": 3.16,
+    "estimated": 0.0010451854608837638,
+    "errors": [
+      0.001058379721265325,
+      0.001041898283826529,
+      0.0010607343020533695
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9880865687966406,
+      0.08966861934629766
+    ]
+  },
+  {
+    "base": 13,
+    "clip": 3.16,
+    "estimated": 0.0010264438999425315,
+    "errors": [
+      0.0010353911357398847,
+      0.0010291801910007848,
+      0.0010343278900479585
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9957144266027261,
+      0.08250989896521381
+    ]
+  },
+  {
+    "base": 14,
+    "clip": 3.16,
+    "estimated": 0.0010169335007971872,
+    "errors": [
+      0.001026792236901435,
+      0.0010279306214549695,
+      0.001034319953446796
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0023544543014122,
+      0.07627840052917673
+    ]
+  },
+  {
+    "base": 15,
+    "clip": 3.16,
+    "estimated": 0.0010277083277670648,
+    "errors": [
+      0.0010345983577488584,
+      0.0010222862855760297,
+      0.0010476674911801822
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.023614086842033,
+      0.07204079986463255
+    ]
+  },
+  {
+    "base": 16,
+    "clip": 3.16,
+    "estimated": 0.0010456875224234194,
+    "errors": [
+      0.0010527375531023165,
+      0.0010526491908148278,
+      0.001058961120387394
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.044576997164225,
+      0.06859725433128883
+    ]
+  },
+  {
+    "base": 12,
+    "clip": 3.2,
+    "estimated": 0.001062779150140443,
+    "errors": [
+      0.0010851282874658496,
+      0.0010616509616666434,
+      0.0010572709433692823
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9881344780209043,
+      0.08962229808230729
+    ]
+  },
+  {
+    "base": 13,
+    "clip": 3.2,
+    "estimated": 0.0010444609405865775,
+    "errors": [
+      0.0010487859033642703,
+      0.001062077727608815,
+      0.0010582927211386913
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      0.9957376604374697,
+      0.08249015271169143
+    ]
+  },
+  {
+    "base": 14,
+    "clip": 3.2,
+    "estimated": 0.0010354537167487974,
+    "errors": [
+      0.00104424572720159,
+      0.001044190909294112,
+      0.0010447179711137622
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0023748699030723,
+      0.07625889406372069
+    ]
+  },
+  {
+    "base": 15,
+    "clip": 3.2,
+    "estimated": 0.0010469494188372597,
+    "errors": [
+      0.001068978529280162,
+      0.0010448442391582668,
+      0.0010522456256889926
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.0236636090183682,
+      0.07200011586982058
+    ]
+  },
+  {
+    "base": 16,
+    "clip": 3.2,
+    "estimated": 0.0010658689634667176,
+    "errors": [
+      0.0010689921010799196,
+      0.0010672456260137212,
+      0.0010783918076111689
+    ],
+    "probabilities": "normalized half-normal with clipped mass",
+    "weights": [
+      1.044598687907622,
+      0.06857966653496383
+    ]
+  }
+]

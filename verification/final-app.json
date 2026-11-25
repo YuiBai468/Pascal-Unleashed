@@ -1,0 +1,54 @@
+{
+  "fp32": {
+    "seed": 182542122411276,
+    "steps": 8,
+    "cfg": 1,
+    "width": 1024,
+    "height": 1024,
+    "sampling_seconds": 20.952,
+    "wall_seconds": 51.69,
+    "vram_peak_gib": 12.02,
+    "psnr_db": null,
+    "dp4a_ops": 0,
+    "fallback_ops": 0
+  },
+  "fast": {
+    "seed": 182542122411276,
+    "steps": 8,
+    "cfg": 1,
+    "width": 1024,
+    "height": 1024,
+    "sampling_seconds": 17.766,
+    "wall_seconds": 52.18,
+    "vram_peak_gib": 12.02,
+    "psnr_db": 17.227789658230524,
+    "dp4a_ops": 2256,
+    "fallback_ops": 1376
+  },
+  "middle": {
+    "seed": 182542122411276,
+    "steps": 8,
+    "cfg": 1,
+    "width": 1024,
+    "height": 1024,
+    "sampling_seconds": 19.663,
+    "wall_seconds": 53.76,
+    "vram_peak_gib": 12.04,
+    "psnr_db": 22.86838228412561,
+    "dp4a_ops": 2256,
+    "fallback_ops": 1376
+  },
+  "precise": {
+    "seed": 182542122411276,
+    "steps": 8,
+    "cfg": 1,
+    "width": 1024,
+    "height": 1024,
+    "sampling_seconds": 25.547,
+    "wall_seconds": 59.93,
+    "vram_peak_gib": 12.02,
+    "psnr_db": 15.405342078671499,
+    "dp4a_ops": 1213,
+    "fallback_ops": 2419
+  }
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "m": 16384,
+    "n": 16384,
+    "k": 16384,
+    "method": "tail_directional128_bytes",
+    "median_ms": 465.1919352213542,
+    "min_ms": 464.353271484375,
+    "max_ms": 465.4619140625,
+    "effective_tflops": 18.90852432345483,
+    "samples_ms": [
+      465.1919352213542,
+      464.8014322916667,
+      465.4619140625,
+      464.353271484375,
+      465.4264322916667
+    ],
+    "tile_panel": 1,
+    "packed_tail": true,
+    "fused_right": true,
+    "base": 14,
+    "clip": 3.48,
+    "cap": 1778,
+    "fold": true,
+    "seed": 2109,
+    "dataset": "normal",
+    "model": "folded-lane-0.npz",
+    "relative_frobenius": 0.0011146266610914761,
+    "certified_rows": 192,
+    "verified_elements": 3145728,
+    "coarse_clip": 3.9,
+    "tail_packet_bits": 8,
+    "phase_ms": {
+      "encode": 17.0250244140625,
+      "two_int8_products": 421.2705383300781,
+      "finish": 28.042240142822266
+    }
+  }
+]

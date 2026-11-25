@@ -1,0 +1,4 @@
+clocks.current.sm [MHz], temperature.gpu, power.draw [W], pstate, utilization.gpu [%], clocks_event_reasons.active
+1037 MHz, 14, 32.92 W, P0, 0 %, 0x0000000000000000
+1303 MHz, 15, 48.37 W, P0, 3 %, 0x0000000000000000
+1303 MHz, 15, 47.38 W, P0, 33 %, 0x0000000000000000
